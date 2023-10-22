@@ -1,0 +1,10 @@
+/* pages/sujv/sujv.wxss */
+.line{
+
+  width:100%;
+  
+  height:2rpx;
+  
+  background:#aaa;
+  
+  }

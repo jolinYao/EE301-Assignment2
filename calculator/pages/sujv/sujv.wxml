@@ -1,0 +1,7 @@
+<!--pages/sujv/sujv.wxml-->
+<view wx:for="{{strArr}}" wx:for-item="items" wx:for-index="indexs" wx:key="indexs">
+ <view>
+  {{items.str}}
+ </view>
+ <view class="line"></view>
+</view>
